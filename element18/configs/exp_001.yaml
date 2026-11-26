@@ -1,0 +1,7 @@
+experiment: exp_001_xgb
+seed: 42
+data: {name: "<dataset name>", version: "<record version>", freq_minutes: 60}
+label: {theta_mg_l: 2.0, k_samples: 2, horizon_h: 12}   # placeholders; run the sensitivity set
+split: {frac: [0.6, 0.15, 0.10, 0.15]}
+model: {device: cpu}                                     # use cuda on a CUDA GPU with xgboost>=2
+logging: {out: results/exp_001}

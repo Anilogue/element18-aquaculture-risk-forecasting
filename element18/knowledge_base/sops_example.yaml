@@ -1,0 +1,16 @@
+# STRUCTURE EXAMPLE ONLY. Actions below are placeholders, not aquaculture advice.
+# Records with status "draft" are ignored by the system. An aquaculture specialist
+# must supply, review and approve real actions, with a cited source, before use.
+- sop_id: SOP-DO-001
+  species: [nile_tilapia]
+  parameter: dissolved_oxygen
+  trigger: "<condition defined by reviewer>"
+  severity: "<level defined by reviewer>"
+  actions:
+    - "<approved action 1, from cited source>"
+  contraindications:
+    - "<conditions where actions must not be taken>"
+  source: "<citation or document identifier>"
+  reviewer: "<name and role>"
+  review_date: "<YYYY-MM-DD>"
+  status: draft

@@ -1,0 +1,16 @@
+# Core (CPU-capable)
+numpy
+pandas
+pyarrow
+scikit-learn
+xgboost>=2.0
+shap
+pyyaml
+pydantic>=2
+requests
+fastapi
+uvicorn
+pytest
+# Optional GPU stack (install per RAPIDS/NVIDIA docs for your CUDA version)
+# cudf-cu12
+# tritonclient[http]
