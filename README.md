@@ -1,4 +1,4 @@
-#Element 18: Explainable GPU-Accelerated Risk Forecasting and Generative Advisory for Sustainable Aquaculture
+Element 18: Explainable GPU-Accelerated Risk Forecasting and Generative Advisory for Sustainable Aquaculture
 
 Research paper and project report for Element 18, submitted to the NVIDIA Bootcamp 2026 (Ready to Deploy, RTD 2026 Boot Camp).
 
